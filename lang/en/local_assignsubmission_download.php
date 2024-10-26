@@ -80,7 +80,7 @@ $string['pdf_availablefrom'] = 'Available from';
 $string['pdf_duedate'] = 'Due date';
 $string['pdf_notactive'] = 'not activated';
 $string['pdf_group'] = 'Group';
-$string['pdf_nogroup'] = 'keine Gruppe';
+$string['pdf_nogroup'] = 'no Group';
 
 // Event.
 $string['printpreviewtableviewed'] = 'Export table viewed';
